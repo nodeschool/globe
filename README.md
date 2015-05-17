@@ -1,12 +1,5 @@
 # nodeschool/globe
 
-Built with [stack.gl](http://stack.gl) components, this is a variation of the [NodeSource Globe](https://nodesource.com/company) that highlights upcoming NodeSchool events for
-[International Day](http://github.com/nodeschool/international-day/).
-	
-## Running Locally
+This has been published to [nodeschool/international-day/tree/gh-pages](https://github.com/nodeschool/international-day/tree/gh-pages).
 
-``` bash
-git clone git@github.com:nodeschool/globe.git
-npm install
-npm start
-```
+Unless we decide to something else with the `/globe` path, lets leave this branch as a redirect.
